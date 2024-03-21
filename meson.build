@@ -1,4 +1,4 @@
-project('lab-xx-template', 'cpp',
+project('02-lab-03-cast-from-string', 'cpp',
   license: 'MIT',
   default_options: [
     'werror=true',
